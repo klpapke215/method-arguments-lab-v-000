@@ -8,4 +8,4 @@ def introduction_and_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-introduction("Dan", "Ember.js")
+introduction_and_language("Dan", "Ember.js")
